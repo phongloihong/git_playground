@@ -1,5 +1,5 @@
 const r = () => {
-	console.log('this is root');
+	console.log('Hi im root');
 }
 
 r();
