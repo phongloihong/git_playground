@@ -1,6 +1,6 @@
 // this is new comment
 const example = () => {
-	console.log('Hey');
+	console.log('Hey this is change!');
 }
 
 example();
